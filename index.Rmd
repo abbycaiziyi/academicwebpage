@@ -7,9 +7,9 @@ I am a postgraduate student in the University of Glasgow's
 I work with [Benedict Jones](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/benjones/) and [Lisa Debruine](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/lisadebruine/)
 
 ## Education Background
-09/2017-present    MSc in Research Methods in Psychological Science
-                   University of Glasgow, Glasgow, UK
+# MSc in Research Methods in Psychological Science (09/2017-present)
+University of Glasgow, Glasgow, UK
 
-09/2011-07/2015    Bachelor of Science in Application of Psychology (Clinical Psychology)
-                   Southern Medical University (SMU), Guangzhou, China
+# Bachelor of Science in Clinical Psychology (09/2011-07/2015)
+Southern Medical University (SMU), Guangzhou, China
 
