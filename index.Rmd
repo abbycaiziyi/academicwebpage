@@ -2,6 +2,12 @@
 title: "Ziyi Cai"
 ---
 
+<img src="image/Ziyi.JPG" 
+     style="width: 50%;
+     float: right;
+     padding-left: 10px;">
+
+
 I am a postgraduate student in the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
 I work with [Benedict Jones](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/benjones/) and [Lisa Debruine](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/lisadebruine/)
@@ -35,6 +41,6 @@ I worked in the Guangzhou Crisis Rdesearch in Intervention Centre as a research 
 
 
 
-![](image/Ziyi.JPG)
+
 
 
