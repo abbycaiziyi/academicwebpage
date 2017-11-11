@@ -8,9 +8,7 @@ output:
 navbar:  
   title: "Ziyi Cai"
   right:
-    - text: Publications
+    - text: Publications & Posters
       href: Publications.html
-    - text: Posters
-      href: Publications.html#posters
     - text: Github
       href: https://github.com/abbycaiziyi
