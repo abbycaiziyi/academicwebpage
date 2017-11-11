@@ -7,3 +7,10 @@ output:
     theme: flatly  
 navbar:  
   title: "Ziyi Cai"
+  right:
+    - text: Publications
+      href: Publications.html
+    - text: Posters
+      href: Publications.html#posters
+    - text: Github
+      href: https://github.com/abbycaiziyi
