@@ -1,0 +1,10 @@
+---
+title: "Publications"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Publications
+[Ziyi C, Hualin W，Yuanguang H. Temporal Fluctuations of High Suicide Risk Calls in Guangzhou Crisis Hotline (2017). Chinese Journal of Public Health, 33(6), pp. 981-984.](http://www.zgggws.com/CN/Y2017/V33/I6/981)
