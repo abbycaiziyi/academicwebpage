@@ -16,4 +16,4 @@ output:
 
 # Posters
 
-![poster of my dissertation](Image/Slide1.png)
+![poster of my dissertation](Image/poster.png)
