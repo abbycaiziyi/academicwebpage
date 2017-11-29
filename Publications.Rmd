@@ -10,10 +10,10 @@ output:
 
 
 
-* [Ziyi C, Hualin W，Yuanguang H. Temporal Fluctuations of High Suicide Risk Calls in Guangzhou Crisis Hotline (2017). Chinese Journal of Public Health, 33(6), pp. 981-984.](http://www.zgggws.com/CN/Y2017/V33/I6/981)
+* [Cai Z., Wei H., Chen C., Lin Y., Huang Y., Xu W. (2017). Temporal Fluctuations of High Suicide Risk Calls in Guangzhou Crisis Hotline. Chinese Journal of Public Health, 33(6), pp. 981-984.](http://www.zgggws.com/CN/Y2017/V33/I6/981)
 
 
 
 # Posters
 
-![](Image/poster.png)
+* [The Effect of T-shirt Color on Women’s Judgments of Men’s Attractiveness and Likability](poster.pdf)
