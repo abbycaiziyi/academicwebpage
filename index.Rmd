@@ -45,7 +45,15 @@ I worked in the [Guangzhou Crisis Rdesearch and Intervention Centre](http://www.
 ## Know more about me
 * [My CV](CV.pdf)
 
-* [My Facebook](https://www.facebook.com/cai.abby)
+
+
+<a href="https://www.facebook.com/cai.abby">
+  <img src="image/fb.png" align="right" style="width:42px;height:42px;border:0;">
+</a>
+
+
+
+
 
 
 
